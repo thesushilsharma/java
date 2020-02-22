@@ -1,3 +1,2 @@
 # java
-Basic Java
-Java Programmer 
+Basic Java Programmer 
